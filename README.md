@@ -4,8 +4,6 @@ I’m an undergraduate in Software Engineering at FIAP, passionate about technol
 
 ## 🛠 Languages and Technologies
 
-<br/>
-
 <img 
   align="left" 
   alt="HTML" title="HTML" 
@@ -24,90 +22,84 @@ I’m an undergraduate in Software Engineering at FIAP, passionate about technol
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
+[<img 
   align="left" 
   alt="TypeScript" title="TypeScript" 
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
+/>](https://www.typescriptlang.org/)
+[<img 
   align="left" 
   alt="Nodejs" title="Nodejs"
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
+/>](https://nodejs.org)
+[<img 
   align="left" 
   alt="Python" title="Python"
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
+/>](https://www.python.org/)
+[<img 
   align="left" 
   alt="React" title="React" 
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
+/>](https://react.dev/)
+[<img 
   align="left" 
   alt="Vitejs" title="Vitejs"
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
-/>
-<img 
+/>](https://vite.dev/)
+[<img 
   align="left" 
   alt="Next.js" title="Next.js"
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
+/>](https://nextjs.org/)
+[<img 
   align="left" 
   alt="Bootstrap" title="Bootstrap" 
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
+/>](https://getbootstrap.com/)
+[<img 
   align="left" 
   alt="Tailwind" title="Tailwind"
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
+/>](https://tailwindcss.com/)
+[<img 
   align="left" 
   alt="SASS" title="SASS"
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
+/>](https://sass-lang.com/)
+[<img 
   align="left" 
   alt="Prisma" title="Prisma"
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
-/>
-<img 
+/>](https://www.prisma.io/)
+[<img 
   align="left" 
   alt="Mongodb" title="Mongodb"
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" 
-/>
-<img 
+/>](https://www.mongodb.com)
+[<img 
   align="left" 
   alt="Postgresql" title="Postgresql"
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
-/>
-<img 
+/>](https://www.postgresql.org/)
+[<img 
   align="left" 
   alt="Git" title="Git"
   width="30px" style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Figma" title="Figma"
-  width="30px" style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
+/>](https://git-scm.com/)
 <br/>
 <br/>
 
