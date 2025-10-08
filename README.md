@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=30&duration=4000&pause=1000&color=F0F6FC&center=false&vCenter=true&width=600&height=40&lines=Welcome+to+my+Profile!+✨;I+am+Felipe+Ricardo+🚀;Full-Stack+Developer+💻" alt="Typing SVG">
+# <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=28&duration=4000&pause=1000&color=F0F6FC&center=false&vCenter=true&width=600&height=36&lines=Welcome+to+my+Profile!+✨;I+am+Felipe+Ricardo+🚀;Full-Stack+Developer+💻" alt="Typing SVG">
 
 I’m an undergraduate in Software Engineering at FIAP, passionate about technology and developing innovative solutions. Working as a Full Stack Developer, I constantly seek to improve my skills and learn new approaches to create efficient, secure, and impactful projects. I believe in continuous learning and evolving with every challenge. 🚀
 
